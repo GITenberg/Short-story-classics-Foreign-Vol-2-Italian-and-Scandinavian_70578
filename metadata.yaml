@@ -1,0 +1,44 @@
+_repo: Short-story-classics-Foreign-Vol-2-Italian-and-Scandinavian_70578
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Patten, William
+    birthdate: 1868
+    deathdate: 1936
+    gutenberg_agent_id: '1118'
+    url: http://www.gutenberg.org/2009/agents/1118
+description: ''
+gutenberg_issued: '2023-04-17'
+identifiers:
+  gutenberg: '70578'
+language: en
+pgterms:marc904: https://archive.org/details/shortstoryclassi02pattrich/page/330/mode/2up
+pgterms:marc905: 20200525124101patten
+pgterms:marc906: '1907'
+pgterms:marc907: US
+production_note: Andrés V. Galia, Susan (susanskinner), María Cristina F. Q. and the
+  Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced
+  from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bP. F. Collier & Son, $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Scandinavian -- Translations into English'
+- !lcsh 'Italian fiction -- Translations into English'
+- !lcsh 'Short stories, Italian -- Translations into English'
+- !lcsh 'Scandinavian fiction -- Translations into English'
+- !lcc 'PQ'
+- !lcc 'PT'
+- GITenberg
+tableOfContents: The lost letter, by Enrico Castelnuovo -- Cavalleria rusticana, by
+  Giovanni Verga -- The silver crucifix, by Antonio Fogazzaro -- The little Sardinian
+  drummer, by Edmondo de Amicis -- Lulu's triumph, by Matilda Serao -- The end of
+  Candia, by Gabriele d'Annunzio -- Signora Speranza, by Luigi Pirandello -- Two men
+  and a woman, by Grazia Deledda -- Railroad and churchyard, by Björnstjerne Björnson
+  -- Björn Sivertsen's wedding trip, byt Holger Drachmann -- Jalo the trotter, by
+  Johann Jacob Ahrenberg -- The plague at Bergamo, by Jens Peter Jacobsen -- Karen,
+  by Alexander Lange Kielland -- Love and bread, by Jean August Strindberg -- Irene
+  Holm, by Hermann, Joachim Bang -- The outlaws, by Selma Lagerlöf.
+title: Short story classics (Foreign), Vol. 2, Italian and Scandinavian
+url: http://www.gutenberg.org/ebooks/70578
